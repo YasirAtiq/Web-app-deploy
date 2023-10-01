@@ -1,4 +1,4 @@
-###Backend of the GUI version of TO_DO LIST APP
+###Backend of the Web version of TO_DO LIST APP
 ##Importing...
 from datetime import datetime as dt
 
